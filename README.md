@@ -1,9 +1,9 @@
-# Survey Data Analysis Project
+## Survey Data Analysis Project
 ---
 
 This project contains SQL scripts and datasets used to analyze survey data on respondents’ career aspirations, job preferences, salary expectations, and more. The analysis provides insights into various factors influencing career choices and preferences across demographics, specifically focusing on respondents from India. The goal is to understand the patterns in job aspirations, work environment preferences, salary expectations, and influences on career decisions.
 
-## Project Structure
+### Project Structure
 ---
 
 - **Data Cleaning** : Cleaning of Given Raw Data
@@ -11,10 +11,8 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 - **Data Analysis** : Analysis of Processed Data/Normalized Data to find some insights about the data.
 - **SQL Queries for Analysis**: Solving given question to find insights using sql.
 - **Excel Dashboards** : Creation of Different types of Dashboards
-- **Datasets**:
-  - `Normalized DataSet.csv`
 
-## Explanation for each column in the dataset for your reference
+### Explanation for each column in the dataset for your reference
 ---
 
 - **Date**: The date of the survey or data collection.
@@ -45,7 +43,7 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 - **Daily Working Hours**: Number of hours the respondent expects to work daily.
 - **Frequency of Full Week Break for Work-Life Balance**: How often the respondent expects a full week break for balance.
 
-## Busniess Question to Solve for Data Analysis
+### Busniess Question to Solve for Data Analysis
 ---
 1. What is the gender distribution of respondents from India?
 2. What percentage of respondents from India are interested in education abroad and sponsorship?
@@ -68,7 +66,7 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 19. What percentage of respondents need sponsorship for education abroad?
 
 
-## SQL Queries Question List
+### SQL Queries Question List
 ---
 
 1. What is the gender distribution of respondents from India?
