@@ -27,6 +27,15 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 - **Employment Stability (3 Years)**: The respondent's expectations for job stability over three years.
 - **Undefined Mission**: Clarity of the respondent's long-term career mission.
 - **Undefined Actions**: Degree of action-taking toward undefined career goals.
+- **Company Social Ratings** : Rating Given to company based on their social presence which is 1 to 10.
+- **Working Type** : Remote,Hybride,Office.
+- **Prefeered Employer** : Challenging,Rewarding, Appreciative.
+- **Learning Enviroment** : Self Learning,Expert Learning Program,Observing Other.
+- **Career Preferences** : Artificial Intelligence , Busniess Operation , Teaching , Product Manager etc.
+- **Prefeered Managment** : Guiding,Supportive,Clear,Demanding.
+- **Work Setup** : Work Alone , Work with 2-3 people,5-6 people etc.
+- **Work for a Company with Layoff** - Yes,No.
+- **Work with one Employer for continue 7 Year** - es,No,Maybe,Depends.
 - **Minimum expected Salary**: The lowest salary the respondent expects in a new job.
 - **Expected Monthly Salary After 5 Years**: Expected monthly salary after five years of work.
 - **Company with No Remote Policy**: Whether the respondent would work for a company without remote work options.
@@ -35,9 +44,6 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 - **Work Under Abusive Manager**: Willingness to work under an abusive manager.
 - **Daily Working Hours**: Number of hours the respondent expects to work daily.
 - **Frequency of Full Week Break for Work-Life Balance**: How often the respondent expects a full week break for balance.
-- **Factors for Productivity and Happiness at Work**: Elements contributing to the respondent’s productivity and happiness at work.
-- **What would frustrate you at work?**: Factors that could cause frustration for the respondent at work.
-
 
 ## Busniess Question to Solve for Data Analysis
 ---
