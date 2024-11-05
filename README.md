@@ -4,7 +4,11 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 
 ## Project Structure
 
-- **SQL Queries for Analysis**: Organized set of SQL scripts performing various analysis tasks.
+- **Data Cleaning** : Cleaning of Given Raw Data
+- **Data Standardization** : Standardization of Cleaned Data
+- **Data Analysis** : Analysis of Processed Data/Normalized Data to find some insights about the data.
+- **SQL Queries for Analysis**: Solving given question to find insights using sql.
+- **Excel Dashboards** : Creation of Different types of Dashboards
 - **Datasets**:
   - `Normalized DataSet.csv`
     
