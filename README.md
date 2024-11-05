@@ -8,28 +8,29 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 - **Datasets**:
   - `Normalized DataSet.csv`
     
- ### Explanation for each column in the dataset:
+### Explanation for each column in the dataset for your reference :
 
-  **Date**: The date of the survey or data collection.
-  **Time**: The exact time the survey response was recorded.
-  **Country**: Respondent’s country of residence.
-  **Pin Code**: Postal code of the respondent's location.
-  **Gender**: Gender of the respondent.
-  **Influencing Factors**: Key factors influencing the respondent’s decisions or preferences.
-  **Higher Education Abroad**: Whether the respondent is interested in studying abroad.
-  **Employment Stability (3 Years)**: The respondent's expectations for job stability over three years.
-  **Undefined Mission**: Clarity of the respondent's long-term career mission.
-  **Undefined Actions**: Degree of action-taking toward undefined career goals.
-  **Minimum expected Salary**: The lowest salary the respondent expects in a new job.
-  **Expected Monthly Salary After 5 Years**: Expected monthly salary after five years of work.
-  **Company with No Remote Policy**: Whether the respondent would work for a company without remote work options.
-  **Minimum Starting Salary**: The minimum starting salary acceptable to the respondent.
-  **Type of Company**: Preferred type of industry or company by the respondent.
-  **Work Under Abusive Manager**: Willingness to work under an abusive manager.
-  **Daily Working Hours**: Number of hours the respondent expects to work daily.
-  **Frequency of Full Week Break for Work-Life Balance**: How often the respondent expects a full week break for balance.
-  **Factors for Productivity and Happiness at Work**: Elements contributing to the respondent’s productivity and happiness at work.
-  **What would frustrate you at work?**: Factors that could cause frustration for the respondent at work.
+- **Date**: The date of the survey or data collection.
+- **Time**: The exact time the survey response was recorded.
+- **Country**: Respondent’s country of residence.
+- **Pin Code**: Postal code of the respondent's location.
+- **Gender**: Gender of the respondent.
+- **Influencing Factors**: Key factors influencing the respondent’s decisions or preferences.
+- **Higher Education Abroad**: Whether the respondent is interested in studying abroad.
+- **Employment Stability (3 Years)**: The respondent's expectations for job stability over three years.
+- **Undefined Mission**: Clarity of the respondent's long-term career mission.
+- **Undefined Actions**: Degree of action-taking toward undefined career goals.
+- **Minimum expected Salary**: The lowest salary the respondent expects in a new job.
+- **Expected Monthly Salary After 5 Years**: Expected monthly salary after five years of work.
+- **Company with No Remote Policy**: Whether the respondent would work for a company without remote work options.
+- **Minimum Starting Salary**: The minimum starting salary acceptable to the respondent.
+- **Type of Company**: Preferred type of industry or company by the respondent.
+- **Work Under Abusive Manager**: Willingness to work under an abusive manager.
+- **Daily Working Hours**: Number of hours the respondent expects to work daily.
+- **Frequency of Full Week Break for Work-Life Balance**: How often the respondent expects a full week break for balance.
+- **Factors for Productivity and Happiness at Work**: Elements contributing to the respondent’s productivity and happiness at work.
+- **What would frustrate you at work?**: Factors that could cause frustration for the respondent at work.
+
 
 ### SQL Queries List
 
