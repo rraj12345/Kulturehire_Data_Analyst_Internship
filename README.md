@@ -13,7 +13,7 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 - **Excel Dashboards** : Creation of Different types of Dashboards
 - **Datasets**:
   - `Normalized DataSet.csv`
-    
+
 ## Explanation for each column in the dataset for your reference
 ---
 
@@ -37,6 +37,29 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 - **Frequency of Full Week Break for Work-Life Balance**: How often the respondent expects a full week break for balance.
 - **Factors for Productivity and Happiness at Work**: Elements contributing to the respondent’s productivity and happiness at work.
 - **What would frustrate you at work?**: Factors that could cause frustration for the respondent at work.
+
+
+## Busniess Question to Solve for Data Analysis
+---
+1. What is the gender distribution of respondents from India?
+2. What percentage of respondents from India are interested in education abroad and sponsorship?
+3. What are the 6 top influences on career aspirations for respondents in India?
+4. How do career aspiration influences vary by gender in India?
+5. What percentage of respondents are willing to work for a company for at least 3 years?
+6. How many respondents prefer to work for socially impactful companies?
+7. How does the preference for socially impactful companies vary by gender?
+8. What is the distribution of minimum expected salary in the first three years among respondents?
+9. What is the expected minimum monthly salary in hand?
+10. What percentage of respondents prefer remote working?
+11. What is the preferred number of daily work hours?
+12. What are the common work frustrations among respondents?
+13. How does the need for work-life balance interventions vary by gender?
+14. How many respondents are willing to work under an abusive manager?
+15. What is the distribution of minimum expected salary after five years?
+16. What are the remote working preferences by gender?
+17. What are the top work frustrations for each gender?
+18. What factors boost work happiness and productivity for respondents?
+19. What percentage of respondents need sponsorship for education abroad?
 
 
 ## SQL Queries List
