@@ -1,8 +1,10 @@
 # Survey Data Analysis Project
+---
 
 This project contains SQL scripts and datasets used to analyze survey data on respondents’ career aspirations, job preferences, salary expectations, and more. The analysis provides insights into various factors influencing career choices and preferences across demographics, specifically focusing on respondents from India. The goal is to understand the patterns in job aspirations, work environment preferences, salary expectations, and influences on career decisions.
 
 ## Project Structure
+---
 
 - **Data Cleaning** : Cleaning of Given Raw Data
 - **Data Standardization** : Standardization of Cleaned Data
@@ -13,6 +15,7 @@ This project contains SQL scripts and datasets used to analyze survey data on re
   - `Normalized DataSet.csv`
     
 ## Explanation for each column in the dataset for your reference
+---
 
 - **Date**: The date of the survey or data collection.
 - **Time**: The exact time the survey response was recorded.
@@ -37,6 +40,7 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 
 
 ## SQL Queries List
+---
 
 1. **Gender Distribution of Respondents from India**: Analyzes the count of respondents based on gender.
 2. **Interest in Higher Education Abroad**: Calculates the percentage of Indian respondents interested in higher education abroad, including those requiring sponsorship.
@@ -58,18 +62,16 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 18. **Factors That Boost Work Happiness and Productivity**: Lists the factors that respondents feel boost their happiness and productivity at work.
 19. **Sponsorship Requirement for Higher Education**: Calculates the percentage of respondents needing sponsorship for education abroad.
 
-### Datasets Information
-
-- **Executive Aspiration Dashboard.xlsx**: Dataset focused on executive career aspirations.
-- **Learning Aspiration Dashboard.xlsx**: Data on respondents' learning and educational aspirations.
-- **Manager Aspiration Dashboard.xlsx**: Survey data on managerial career goals and aspirations.
-- **Normalized DataSet.csv**: A normalized version of the data, formatted for easier analysis.
-
-Here’s an explanation for each section of the  dashboards 
-
+### Dashboards Information
 ---
+- **Executive Aspiration Dashboard.xlsx**: Dashboard focused on executive career aspirations.
+- **Learning Aspiration Dashboard.xlsx**: Dashboard on respondents' learning and educational aspirations.
+- **Manager Aspiration Dashboard.xlsx**: Dashboard on managerial career goals of aspirations.
+- **Mission Aspiration Dashboard.xlsx** : Dashboard on missions and action of aspiration
+
 
 ### Dashboard 1: **GEN-Z Executive Dashboard**
+---
 
 This dashboard summarizes Gen-Z’s career preferences, work preferences, and gender distribution.
 
@@ -77,22 +79,19 @@ This dashboard summarizes Gen-Z’s career preferences, work preferences, and ge
 2. **Total Country**: The number of countries represented by the respondents, showing the geographic diversity.
 3. **Total Influence Factor**: Number of primary influences on career decisions among respondents.
 4. **Career Preference**: Career options preferred by respondents across various fields.
-
 5. **Gen-Z Higher Education**: A bar chart showing the respondents’ inclination towards pursuing higher education abroad, categorized into "Yes," "No," and "Sponsorship Required."
 6. **Top 3 Work Setup**: A pie chart displaying preferences for work setups:
    - Working with a team of 5 people.
    - Working with a team of 3 people.
    - Working alone.
-
 7. **Mission and Action Alignment**: A bar chart indicating how many respondents feel aligned or misaligned with their career mission and actions.
 8. **Preferred Company**: A chart displaying preferred company types among respondents, including sectors like Tech, BPO, and Operations.
 9. **Expected Salary Distribution**: A line chart tracking the expected salary growth among respondents over time.
 10. **Gender Distribution**: A pie chart showing the gender breakdown of respondents, with percentages for female, male, and other gender identities.
 
----
 
 ### Dashboard 2: **Learning Aspiration Dashboard**
-
+---
 This dashboard focuses on Gen-Z respondents' aspirations, influencing factors, and preferred working environments.
 
 1. **Work with Employer for 3 Years**: A bar chart displaying respondents' willingness to stay with an employer for at least three years, categorized as "Yes," "No," or "Depends."
