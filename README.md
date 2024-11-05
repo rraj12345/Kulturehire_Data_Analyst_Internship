@@ -147,4 +147,14 @@ This dashboard focuses on  respondents' alignment with their career missions and
 
 6. **Gender Filter**: The right side of the dashboard features a filter that allows users to segment the data by gender, including categories such as "Female," "Male," "Other," and "Transgender." This enables deeper analysis of how mission alignment, action alignment, and employer preferences vary across gender identities.
 
+### Dashboard 4: **Manager Aspiration Dashboard** 
+---
+This dashboard provides insights into managerial career aspirations based on survey data, focusing on factors such as gender distribution, salary expectations, working hours, and preferred employer traits.
 
+- **Gender Filter**: Enables filtering of all visuals by gender for focused analysis.
+- **Minimum Salary (>3 Years)**: Shows salary expectations of respondents with over three years of experience.
+- **Minimum Salary (>5 Years)**: Displays salary expectations for respondents with more than five years of experience.
+- **Work Setup**: Illustrates preferred team sizes, highlighting preferences for small to medium-sized teams.
+- **Abusive Manager**: Indicates the number of respondents willing to work under an abusive manager.
+- **Working Hours**: Visualizes preferred daily working hours, with a strong preference for an 8-hour workday.
+- **Preferred Employer**: Displays the type of employer environment respondents favor, with "Challenging" being the most preferred.
