@@ -131,3 +131,22 @@ This dashboard focuses on Gen-Z respondents' aspirations, influencing factors, a
    - Self-paced work.
    - Learning through expert programs.
    - Observing others.
+  
+### Dashboard 3: **Mission Aspiration Dashboard** 
+---
+This dashboard focuses on  respondents' alignment with their career missions and actions, preferred employer characteristics, and overall social ratings of companies.
+
+
+1. **Mission Alignment**: This pie chart illustrates the percentage of respondents who feel aligned or misaligned with their career mission. The alignment status helps gauge if respondents have a clear sense of purpose in their careers.
+
+2. **Action Alignment**: This section, represented as a pie chart, shows the degree of respondents’ actions toward achieving their career goals. It indicates whether individuals are actively working toward their undefined missions or if they lack initiative.
+
+3. **Employment Stability for 7 Years**: This bar chart explores the respondents' willingness to remain with a company for a seven-year period. The categories range from complete unwillingness (“No”) to a firm commitment (“Will work for 7 years or more”). This data provides insights into job stability expectations among respondents.
+
+4. **Preferred Employer Distribution**: This bar chart visualizes the type of employer environment that respondents prefer. Categories include "Appreciative," "Challenging," "Rewarding," and "Self Learning." It highlights the most desirable traits in a potential employer, with "Challenging" and "Appreciative" environments being particularly favored.
+
+5. **Social Ratings of the Company**: This line chart tracks respondents' social ratings of companies, rated on a scale of 1 to 10. The data shows an upward trend, suggesting that higher social ratings are more common, which may reflect the importance of a company’s social image in attracting employees.
+
+6. **Gender Filter**: The right side of the dashboard features a filter that allows users to segment the data by gender, including categories such as "Female," "Male," "Other," and "Transgender." This enables deeper analysis of how mission alignment, action alignment, and employer preferences vary across gender identities.
+
+
