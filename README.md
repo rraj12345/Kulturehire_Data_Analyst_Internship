@@ -62,28 +62,28 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 19. What percentage of respondents need sponsorship for education abroad?
 
 
-## SQL Queries List
+## SQL Queries Question List
 ---
 
-1. **Gender Distribution of Respondents from India**: Analyzes the count of respondents based on gender.
-2. **Interest in Higher Education Abroad**: Calculates the percentage of Indian respondents interested in higher education abroad, including those requiring sponsorship.
-3. **Top Influences on Career Aspirations**: Lists the top six factors influencing career aspirations among Indian respondents.
-4. **Career Aspiration Influences by Gender**: Shows the distribution of influences on career aspirations by gender.
-5. **Willingness to Work for 3+ Years**: Calculates the percentage of respondents willing to stay with a company for at least three years.
-6. **Socially Impactful Company Preference**: Counts the number of respondents who prefer working for companies with a high social impact.
-7. **Social Impact Preferences by Gender**: Breaks down preferences for socially impactful companies by gender.
-8. **Minimum Expected Salary Distribution (First 3 Years)**: Analyzes expected salary distribution within the first three years of employment.
-9. **Expected Monthly Salary After Five Years**: Lists expected salary distribution after five years.
-10. **Remote Work Preferences**: Calculates the percentage of respondents who prefer remote work.
-11. **Preferred Daily Work Hours**: Shows the most common daily work hours.
-12. **Work Frustrations**: Lists common work frustrations.
-13. **Need for Work-Life Balance by Gender**: Shows the need for work-life balance interventions, broken down by gender.
-14. **Willingness to Work Under Abusive Manager**: Counts respondents willing to work under an abusive manager.
-15. **Minimum Expected Salary After Five Years**: Similar to (9), but focused on specific distribution insights.
-16. **Remote Working Preferences by Gender**: Lists remote work preferences, broken down by gender.
-17. **Top Work Frustrations by Gender**: Analyzes top work frustrations for each gender.
-18. **Factors That Boost Work Happiness and Productivity**: Lists the factors that respondents feel boost their happiness and productivity at work.
-19. **Sponsorship Requirement for Higher Education**: Calculates the percentage of respondents needing sponsorship for education abroad.
+1. What is the gender distribution of respondents from India?
+2. What percentage of respondents from India are interested in education abroad and sponsorship?
+3. What are the 6 top influences on career aspirations for respondents in India?
+4. How do career aspiration influences vary by gender in India?
+5. What percentage of respondents are willing to work for a company for at least 3 years?
+6. How many respondents prefer to work for socially impactful companies?
+7. How does the preference for socially impactful companies vary by gender?
+8. What is the distribution of minimum expected salary in the first three years among respondents?
+9. What is the expected minimum monthly salary in hand?
+10. What percentage of respondents prefer remote working?
+11. What is the preferred number of daily work hours?
+12. What are the common work frustrations among respondents?
+13. How does the need for work-life balance interventions vary by gender?
+14. How many respondents are willing to work under an abusive manager?
+15. What is the distribution of minimum expected salary after five years?
+16. What are the remote working preferences by gender?
+17. What are the top work frustrations for each gender?
+18. What factors boost work happiness and productivity for respondents?
+19. What percentage of respondents need sponsorship for education abroad?
 
 ### Dashboards Information
 ---
@@ -95,7 +95,6 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 
 ### Dashboard 1: **GEN-Z Executive Dashboard**
 ---
-
 This dashboard summarizes Gen-Z’s career preferences, work preferences, and gender distribution.
 
 1. **Total Respondent**: The total number of survey respondents (Gen-Z individuals) who provided data.
