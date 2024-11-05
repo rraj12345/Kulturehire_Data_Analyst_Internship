@@ -8,7 +8,7 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 - **Datasets**:
   - `Normalized DataSet.csv`
     
-### Explanation for each column in the dataset for your reference :
+## Explanation for each column in the dataset for your reference
 
 - **Date**: The date of the survey or data collection.
 - **Time**: The exact time the survey response was recorded.
@@ -32,7 +32,7 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 - **What would frustrate you at work?**: Factors that could cause frustration for the respondent at work.
 
 
-### SQL Queries List
+## SQL Queries List
 
 1. **Gender Distribution of Respondents from India**: Analyzes the count of respondents based on gender.
 2. **Interest in Higher Education Abroad**: Calculates the percentage of Indian respondents interested in higher education abroad, including those requiring sponsorship.
@@ -61,11 +61,42 @@ This project contains SQL scripts and datasets used to analyze survey data on re
 - **Manager Aspiration Dashboard.xlsx**: Survey data on managerial career goals and aspirations.
 - **Normalized DataSet.csv**: A normalized version of the data, formatted for easier analysis.
 
-## Requirements
+Here’s an explanation for each section of the  dashboards 
 
-- SQL Database (compatible with the SQL queries provided, e.g., MySQL, PostgreSQL)
-- Excel-compatible software (Microsoft Excel, Google Sheets) to view `.xlsx` files
-- Python or R (optional) for any additional data wrangling if required
+---
 
+### Dashboard 1: **GEN-Z Executive Dashboard**
 
-This README provides an overview and setup instructions to help users navigate and understand the project. Let me know if there’s anything more specific you’d like to add!
+This dashboard summarizes Gen-Z’s career preferences, work preferences, and gender distribution.
+
+1. **Total Respondent**: The total number of survey respondents (Gen-Z individuals) who provided data.
+2. **Total Country**: The number of countries represented by the respondents, showing the geographic diversity.
+3. **Total Influence Factor**: Number of primary influences on career decisions among respondents.
+4. **Career Preference**: Career options preferred by respondents across various fields.
+
+5. **Gen-Z Higher Education**: A bar chart showing the respondents’ inclination towards pursuing higher education abroad, categorized into "Yes," "No," and "Sponsorship Required."
+6. **Top 3 Work Setup**: A pie chart displaying preferences for work setups:
+   - Working with a team of 5 people.
+   - Working with a team of 3 people.
+   - Working alone.
+
+7. **Mission and Action Alignment**: A bar chart indicating how many respondents feel aligned or misaligned with their career mission and actions.
+8. **Preferred Company**: A chart displaying preferred company types among respondents, including sectors like Tech, BPO, and Operations.
+9. **Expected Salary Distribution**: A line chart tracking the expected salary growth among respondents over time.
+10. **Gender Distribution**: A pie chart showing the gender breakdown of respondents, with percentages for female, male, and other gender identities.
+
+---
+
+### Dashboard 2: **Learning Aspiration Dashboard**
+
+This dashboard focuses on Gen-Z respondents' aspirations, influencing factors, and preferred working environments.
+
+1. **Work with Employer for 3 Years**: A bar chart displaying respondents' willingness to stay with an employer for at least three years, categorized as "Yes," "No," or "Depends."
+2. **Higher Education Aspiration**: A chart that breaks down responses regarding aspirations for higher education abroad, including "Yes," "No," and "Sponsorship Required."
+3. **Undefined Mission**: A pie chart showing the percentage of respondents with a clear or unclear career mission, labeled as "Yes" for having a mission and "No" for lacking one.
+
+4. **Influencing Factor**: A bar chart that visualizes the factors most influencing respondents’ decisions, including influences like Parents, People, Social Media, and Friends.
+5. **Working Environment**: A chart displaying the preferred work environments, such as:
+   - Self-paced work.
+   - Learning through expert programs.
+   - Observing others.
