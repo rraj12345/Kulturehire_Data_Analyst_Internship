@@ -1,4 +1,4 @@
-## Survey Data Analysis Project
+## Gen-Z Career Aspiration Survey Data Analysis Project
 ---
 
 This project contains SQL scripts and datasets used to analyze survey data on respondents’ career aspirations, job preferences, salary expectations, and more. The analysis provides insights into various factors influencing career choices and preferences across demographics, specifically focusing on respondents from India. The goal is to understand the patterns in job aspirations, work environment preferences, salary expectations, and influences on career decisions.
